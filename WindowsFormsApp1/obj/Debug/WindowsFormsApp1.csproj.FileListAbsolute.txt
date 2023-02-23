@@ -1,0 +1,135 @@
+C:\Users\Asus\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\Asus\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\Asus\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\Asus\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+C:\Users\Asus\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\Asus\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\Asus\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\Asus\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\Asus\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\Asus\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\tobii_firmware_upgrade.dll
+C:\Users\Asus\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\tobii_pro.dll
+C:\Users\Asus\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Tobii.Research.dll
+C:\Users\Asus\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Tobii.Research.xml
+C:\Users\Asus\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CopyComplete
+C:\Users\Sozen_Nergiz\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\tobii_firmware_upgrade.dll
+C:\Users\Sozen_Nergiz\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\tobii_pro.dll
+C:\Users\Sozen_Nergiz\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\Sozen_Nergiz\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\Sozen_Nergiz\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\Sozen_Nergiz\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Tobii.Research.dll
+C:\Users\Sozen_Nergiz\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Tobii.Research.xml
+C:\Users\Sozen_Nergiz\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+C:\Users\Sozen_Nergiz\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\Sozen_Nergiz\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\Sozen_Nergiz\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\Sozen_Nergiz\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\Sozen_Nergiz\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CopyComplete
+C:\Users\Sozen_Nergiz\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\Sozen_Nergiz\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\Sozen_Nergiz\source\activity diagram versions\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\tobii_firmware_upgrade.dll
+C:\Users\Sozen_Nergiz\source\activity diagram versions\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\tobii_pro.dll
+C:\Users\Sozen_Nergiz\source\activity diagram versions\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\Sozen_Nergiz\source\activity diagram versions\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\Sozen_Nergiz\source\activity diagram versions\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\Sozen_Nergiz\source\activity diagram versions\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Tobii.Research.dll
+C:\Users\Sozen_Nergiz\source\activity diagram versions\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Tobii.Research.xml
+C:\Users\Sozen_Nergiz\source\activity diagram versions\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+C:\Users\Sozen_Nergiz\source\activity diagram versions\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\Sozen_Nergiz\source\activity diagram versions\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\Sozen_Nergiz\source\activity diagram versions\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\Sozen_Nergiz\source\activity diagram versions\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\Sozen_Nergiz\source\activity diagram versions\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CopyComplete
+C:\Users\Sozen_Nergiz\source\activity diagram versions\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\Sozen_Nergiz\source\activity diagram versions\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\Sozen_Nergiz\source\activity diagram versions\v1_calısan yedek\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\tobii_firmware_upgrade.dll
+C:\Users\Sozen_Nergiz\source\activity diagram versions\v1_calısan yedek\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\tobii_pro.dll
+C:\Users\Sozen_Nergiz\source\activity diagram versions\v1_calısan yedek\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\Sozen_Nergiz\source\activity diagram versions\v1_calısan yedek\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\Sozen_Nergiz\source\activity diagram versions\v1_calısan yedek\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\Sozen_Nergiz\source\activity diagram versions\v1_calısan yedek\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Tobii.Research.dll
+C:\Users\Sozen_Nergiz\source\activity diagram versions\v1_calısan yedek\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Tobii.Research.xml
+C:\Users\Sozen_Nergiz\source\activity diagram versions\v1_calısan yedek\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+C:\Users\Sozen_Nergiz\source\activity diagram versions\v1_calısan yedek\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\Sozen_Nergiz\source\activity diagram versions\v1_calısan yedek\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\Sozen_Nergiz\source\activity diagram versions\v1_calısan yedek\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\Sozen_Nergiz\source\activity diagram versions\v1_calısan yedek\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\Sozen_Nergiz\source\activity diagram versions\v1_calısan yedek\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CopyComplete
+C:\Users\Sozen_Nergiz\source\activity diagram versions\v1_calısan yedek\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\Sozen_Nergiz\source\activity diagram versions\v1_calısan yedek\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\Sozen_Nergiz\source\activity diagram versions\v7\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\tobii_firmware_upgrade.dll
+C:\Users\Sozen_Nergiz\source\activity diagram versions\v7\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\tobii_pro.dll
+C:\Users\Sozen_Nergiz\source\activity diagram versions\v7\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\Sozen_Nergiz\source\activity diagram versions\v7\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\Sozen_Nergiz\source\activity diagram versions\v7\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\Sozen_Nergiz\source\activity diagram versions\v7\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Tobii.Research.dll
+C:\Users\Sozen_Nergiz\source\activity diagram versions\v7\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Tobii.Research.xml
+C:\Users\Sozen_Nergiz\source\activity diagram versions\v7\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+C:\Users\Sozen_Nergiz\source\activity diagram versions\v7\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\Sozen_Nergiz\source\activity diagram versions\v7\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\Sozen_Nergiz\source\activity diagram versions\v7\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\Sozen_Nergiz\source\activity diagram versions\v7\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\Sozen_Nergiz\source\activity diagram versions\v7\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CopyComplete
+C:\Users\Sozen_Nergiz\source\activity diagram versions\v7\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\Sozen_Nergiz\source\activity diagram versions\v7\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\Sozen_Nergiz\source\activity diagram versions\v8 büyük button\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\tobii_firmware_upgrade.dll
+C:\Users\Sozen_Nergiz\source\activity diagram versions\v8 büyük button\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\tobii_pro.dll
+C:\Users\Sozen_Nergiz\source\activity diagram versions\v8 büyük button\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\Sozen_Nergiz\source\activity diagram versions\v8 büyük button\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\Sozen_Nergiz\source\activity diagram versions\v8 büyük button\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\Sozen_Nergiz\source\activity diagram versions\v8 büyük button\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Tobii.Research.dll
+C:\Users\Sozen_Nergiz\source\activity diagram versions\v8 büyük button\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Tobii.Research.xml
+C:\Users\Sozen_Nergiz\source\activity diagram versions\v8 büyük button\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+C:\Users\Sozen_Nergiz\source\activity diagram versions\v8 büyük button\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\Sozen_Nergiz\source\activity diagram versions\v8 büyük button\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\Sozen_Nergiz\source\activity diagram versions\v8 büyük button\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\Sozen_Nergiz\source\activity diagram versions\v8 büyük button\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\Sozen_Nergiz\source\activity diagram versions\v8 büyük button\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CopyComplete
+C:\Users\Sozen_Nergiz\source\activity diagram versions\v8 büyük button\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\Sozen_Nergiz\source\activity diagram versions\v8 büyük button\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\Sozen_Nergiz\source\activity diagram versions\v9 popup when finished\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\tobii_firmware_upgrade.dll
+C:\Users\Sozen_Nergiz\source\activity diagram versions\v9 popup when finished\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\tobii_pro.dll
+C:\Users\Sozen_Nergiz\source\activity diagram versions\v9 popup when finished\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\Sozen_Nergiz\source\activity diagram versions\v9 popup when finished\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\Sozen_Nergiz\source\activity diagram versions\v9 popup when finished\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\Sozen_Nergiz\source\activity diagram versions\v9 popup when finished\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Tobii.Research.dll
+C:\Users\Sozen_Nergiz\source\activity diagram versions\v9 popup when finished\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Tobii.Research.xml
+C:\Users\Sozen_Nergiz\source\activity diagram versions\v9 popup when finished\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+C:\Users\Sozen_Nergiz\source\activity diagram versions\v9 popup when finished\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\Sozen_Nergiz\source\activity diagram versions\v9 popup when finished\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\Sozen_Nergiz\source\activity diagram versions\v9 popup when finished\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\Sozen_Nergiz\source\activity diagram versions\v9 popup when finished\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\Sozen_Nergiz\source\activity diagram versions\v9 popup when finished\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CopyComplete
+C:\Users\Sozen_Nergiz\source\activity diagram versions\v9 popup when finished\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\Sozen_Nergiz\source\activity diagram versions\v9 popup when finished\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\Sozen_Nergiz\source\activity diagram versions\v10 with warning\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\tobii_firmware_upgrade.dll
+C:\Users\Sozen_Nergiz\source\activity diagram versions\v10 with warning\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\tobii_pro.dll
+C:\Users\Sozen_Nergiz\source\activity diagram versions\v10 with warning\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\Sozen_Nergiz\source\activity diagram versions\v10 with warning\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\Sozen_Nergiz\source\activity diagram versions\v10 with warning\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\Sozen_Nergiz\source\activity diagram versions\v10 with warning\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Tobii.Research.dll
+C:\Users\Sozen_Nergiz\source\activity diagram versions\v10 with warning\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Tobii.Research.xml
+C:\Users\Sozen_Nergiz\source\activity diagram versions\v10 with warning\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+C:\Users\Sozen_Nergiz\source\activity diagram versions\v10 with warning\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\Sozen_Nergiz\source\activity diagram versions\v10 with warning\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\Sozen_Nergiz\source\activity diagram versions\v10 with warning\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\Sozen_Nergiz\source\activity diagram versions\v10 with warning\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\Sozen_Nergiz\source\activity diagram versions\v10 with warning\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CopyComplete
+C:\Users\Sozen_Nergiz\source\activity diagram versions\v10 with warning\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\Sozen_Nergiz\source\activity diagram versions\v10 with warning\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\Sozen_Nergiz\source\activity diagram experiment_22 nisan\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\tobii_firmware_upgrade.dll
+C:\Users\Sozen_Nergiz\source\activity diagram experiment_22 nisan\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\tobii_pro.dll
+C:\Users\Sozen_Nergiz\source\activity diagram experiment_22 nisan\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\Sozen_Nergiz\source\activity diagram experiment_22 nisan\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\Sozen_Nergiz\source\activity diagram experiment_22 nisan\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\Sozen_Nergiz\source\activity diagram experiment_22 nisan\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Tobii.Research.dll
+C:\Users\Sozen_Nergiz\source\activity diagram experiment_22 nisan\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Tobii.Research.xml
+C:\Users\Sozen_Nergiz\source\activity diagram experiment_22 nisan\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+C:\Users\Sozen_Nergiz\source\activity diagram experiment_22 nisan\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\Sozen_Nergiz\source\activity diagram experiment_22 nisan\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\Sozen_Nergiz\source\activity diagram experiment_22 nisan\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\Sozen_Nergiz\source\activity diagram experiment_22 nisan\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\Sozen_Nergiz\source\activity diagram experiment_22 nisan\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CopyComplete
+C:\Users\Sozen_Nergiz\source\activity diagram experiment_22 nisan\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\Sozen_Nergiz\source\activity diagram experiment_22 nisan\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb

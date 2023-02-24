@@ -1,6 +1,6 @@
 #Collect-export-problem-specific-raw-eye-tracker-data
 
-This project was a small section of my PhD thesis study, which I investigated the "Effect of Working Memory Capacity for the Understandability of Complex Software Diagrams".
+This project was a small section of my PhD thesis study, which I investigated the "Investigating the Effect of Individual Cognitive Differences for the Understandability of Complex Software Diagrams".
 *You can access the full article from the repository.
 
 
